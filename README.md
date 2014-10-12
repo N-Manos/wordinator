@@ -8,6 +8,6 @@ It will return whether or not the two words are anagrams as json.
 ```
 console
 $ gem install sinatra
-$ ruby app.rb
+$ ruby wordinator.rb
 ```
 Then simply feed it two words in the form above.
